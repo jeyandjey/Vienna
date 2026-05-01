@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "RetroStar";
+    src: url(Retro\ Star\ DEMO.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Bebas";
+    src: url(Bebas-Regular.ttf) format("truetype");
+}
+h1 {
+    font-family: "RetroStar", sans-serif;
+    color: #ff0000;
+}
+p{
+    font-family: "Bebas", sans-serif;
+    color: #0f0f0f;
+}
+form {
+    border-radius: 10px;
+}
